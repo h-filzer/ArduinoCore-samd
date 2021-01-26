@@ -1,6 +1,6 @@
 {
     "description":"Arduino Wiring-based Framework (SAMR34 Core)",
-    "name":"framework-atmelsam-samr34",
+    "name":"framework-arduino-samd",
     "url":"https://github.com/h-filzer/ArduinoCore-samd",
     "version":"1.0000.20210126"
 }
